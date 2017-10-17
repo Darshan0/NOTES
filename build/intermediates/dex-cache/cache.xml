@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_646f26d8cb724e36ab4a79cf16073bec27145512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a3e25dd88ed853926cc418353863ce9f73bbbd90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/9d4288b48d3e7d30e67b50d2f4c93b0687294746/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab1443981a047ea5b48f309bde9a220dd7f1a3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/c00d2a831166f02df749bea80f6a25f9b0b4a25f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8d105717b3f39a76d274eace03069241440033e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e36fd9152fb1d40a4924762595e14a22707b64bc">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de8f40892f893c57a3542aad199510ff42745206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_646f26d8cb724e36ab4a79cf16073bec27145512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/04ee6170753df0e769af46f40a5e27afa832d1dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0b7b7e4b447dbd6d09a10d1106e5abf4a11708a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/ec61f98baf57722ef3627ea0e557afacd6ae9730/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90a49ef6eab6aad573d6f8a2e91771dbfe61543c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/f6f93969aaead0bbcb6cd243d4085354b2d11e9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae576e9715697f2c2f175f0e433aab53b2198832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/5f66e80b3af902e29f2666fb2a90a9abc0d26745/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_047bf413defe3cca6abca0fdd7d353cdf3109e87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/84356929049888ba24ac4cecd2aa672b5a4cef31/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f10e90a40dc26239c3dd842206f0d83635a845f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/d4682d167e0786a645460997bc50f2d21249ff3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ee2e5b558a1f7cdbf9f6f3f666e861aa4e8ab1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/1c14eed84ceecc63623d52de5027962abed60f94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db93c5ca2819404f00e85221a81e8da4265bf2cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/84356929049888ba24ac4cecd2aa672b5a4cef31/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda0027887809377e94097357c4d83dc52e5d574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/50d65fb29aac0cd1e2f98c7274533dd37db75aca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_126646f628cd8d9814454472aa5b49cb290ace92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/bc7077b56277ec13d831b22192287fd3af1d8fd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f49edbf1785f3c860b867e45acedc12e474fc612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/d4682d167e0786a645460997bc50f2d21249ff3d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a984269ce7b05a6bf099a860442f2e85c2911658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/408fa68460636769d3a43db1189f63cbc9d79345/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7a67a80dfba9b24645fcacf07251e75d46cbd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/04ee6170753df0e769af46f40a5e27afa832d1dc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5094fbd3a139d1e0b1c9757351f0aa44055096bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/858e566ea2e4dc3e49c182a12bd2a31abacd092a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70211b470d7ce51f019f607bc2f16dc6d345288b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/ab9b4c4c5b7994e9fd75d9b81b8b8b11ff702de1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cd46c3cc4059dedf10b5917c3ba7029f1ee8580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/bc7077b56277ec13d831b22192287fd3af1d8fd2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_986efa15419c5a86f6efef7c4c99ed1333bcba9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/408fa68460636769d3a43db1189f63cbc9d79345/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81ed7d1b69cdaa38705abba7605157b36612a334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/f3d1a9f640396925d19644a7717b38ec180a8eb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4136f5107ff68b5db32c1f1c0aefad29abedb86e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darshan/.android/build-cache/3df32897c27bd358614ca9739d7e6abcb05f28af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/darshan/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_996fa053ba69f79ef093d0ce9f60d372508b28c5/classes.dex" />
+    </item>
+
+</items>
