@@ -1,4 +1,3 @@
-NOTES
+Papers 
 
-Notes,is an android application used to note any information into the application
-
+Papers is an android application used to takes notes and store any information into the application using SQLite Database.
